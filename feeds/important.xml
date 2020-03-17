@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MakerGear OctoPrint Announcements</title>
+    
+    <link>http://setup.makergear.com/feeds/</link>
+    <atom:link href="http://setup.makergear.com/feeds/important.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Mar 2018 11:02:52 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Mar 2018 11:02:52 +0000</lastBuildDate>
+    
+
+
+
+
+
+
+      <item>
+        <title>Octoprint 1.3.6 Updates</title>
+        <description>
+          <![CDATA[
+            If you have not already, please make sure you have updated to Octoprint 1.3.6and  the MakerGear Setup Plugin 2.5.6.7 or later. To check your version of Octoprint and the Setup Plugin, click on the wrench icon in the navigatiopn bar, and go to 'Software Update' from left sidebar. You should see versions for both Octoprint and Makergear Setup.
+          ]]>
+        </description>
+        <pubDate>Sun, 18 Mar 2018 11:00:00 +0000</pubDate>
+        <link>http://setup.makergear.com/feeds/index.html?utm_source=rss&amp;utm_medium=important</link>
+        <guid isPermaLink="true">http://setup.makergear.com/feeds/index.html</guid>
+        <category>Important OctoPrint Announcements</category>
+      </item>
+    
+
+
+
+
+    
+  </channel>
+</rss>
